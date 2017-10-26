@@ -7,7 +7,7 @@
 
 ##Gradle 增加引用
 ```
-compile 'com.github.pao11:LabelViewRel:v1.0.0'
+compile 'com.github.pao11:LabelViewRel:v1.1.0'
 ```
 ##Usage 使用
 ```
@@ -23,7 +23,7 @@ compile 'com.github.pao11:LabelViewRel:v1.0.0'
 ```
 ##更新记录
 
- **v1.0.0**　`2017.10.26`　发布第一个版本--SDK VERSION 23.1.0
+ **v1.1.0**　`2017.10.26`　发布第一个版本--SDK VERSION 23.1.0
 
 ## License
 
